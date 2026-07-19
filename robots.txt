@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://music-practice-app-a1c.pages.dev/sitemap.xml
